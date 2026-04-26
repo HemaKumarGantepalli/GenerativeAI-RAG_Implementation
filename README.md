@@ -1,4 +1,4 @@
-# Generative-AI-End-to-End-Analysis-Source-Code
+# GenerativeAI-RAG_Implementation
 # Steps to run. 
 
 ### Steps:
